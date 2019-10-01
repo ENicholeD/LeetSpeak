@@ -20,8 +20,8 @@ namespace LeetSpeak
             {
             Translator NewTranslate = new Translator();
             NewTranslate.User(inputSentence);
+            
             }
-
         }
     }
 }
